@@ -2,7 +2,6 @@ import concurrent.futures
 from simple_salesforce import Salesforce
 import requests
 import os
-import csv
 import re
 import logging
 import argparse
