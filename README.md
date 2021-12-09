@@ -38,3 +38,4 @@ If you want to connect to sandbox
 ```
 download.py -q 'SELECT Id FROM Account' -u 'admin@admin.com' -p 'verystrongpassword' -s True
 ```
+# Use this on your own risk. I am not a python developer!
